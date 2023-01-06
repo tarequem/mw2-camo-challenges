@@ -1,24 +1,32 @@
-import logo from './logo.svg';
-import './App.css';
+import Header from './components/Header';
+import Assault from './components/weapons/Assault';
+//import Battle from './components/weapons/Battle';
+//import Smgs from './components/weapons/Smgs';
+//import Lmgs from './components/weapons/Lmgs';
+//import Shotguns from './components/weapons/Shotguns';
+//import Marksman from './components/weapons/Marksman';
+//import Snipers from './components/weapons/Snipers';
+//import Melee from './components/weapons/Melee';
+//import Launchers from './components/weapons/Launchers';
+//import Handguns from './components/weapons/Handguns';
+import Footer from './components/Footer';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <main className='bg-lime-900'>
+      <Header />
+      <Assault />
+      {/*<Battle />
+      <Smgs />
+      <Lmgs />
+      <Shotguns />
+      <Marksman />
+      <Snipers />
+      <Melee />
+      <Launchers />
+      <Handguns />*/}
+      <Footer />
+    </main>
   );
 }
 

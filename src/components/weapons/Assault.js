@@ -39,6 +39,202 @@ export default function Assault() {
             description: "Get the M4 to level 19 - Get 15 kills from behind with the M4"
         },
         {
+            id: 5,
+            src: Scales,
+            alt: "Scales - Get the M4 to level 2 - Get 50 kills with the M4",
+            title: "Scales",
+            description: "Get the M4 to level 2 - Get 50 kills with the M4"
+        },
+        {
+            id: 6,
+            src: DesertHybrid,
+            alt: "Desert Hybrid - Get the M4 to level 8 - Get 50 kills while ADS with the M4",
+            title: "Desert Hybrid",
+            description: "Get the M4 to level 8 - Get 50 kills while ADS with the M4"
+        },
+        {
+            id: 7,
+            src: DarkLeaves,
+            alt: "Dark Leaves - Get the M4 to level 13 - Get 10 double kills with the M4",
+            title: "Dark Leaves",
+            description: "Get the M4 to level 13 - Get 10 double kills with the M4"
+        },
+        {
+            id: 8,
+            src: NewUrban,
+            alt: "New Urban - Get the M4 to level 19 - Get 15 kills from behind with the M4",
+            title: "New Urban",
+            description: "Get the M4 to level 19 - Get 15 kills from behind with the M4"
+        },
+        {
+            id: 9,
+            src: Scales,
+            alt: "Scales - Get the M4 to level 2 - Get 50 kills with the M4",
+            title: "Scales",
+            description: "Get the M4 to level 2 - Get 50 kills with the M4"
+        },
+        {
+            id: 10,
+            src: DesertHybrid,
+            alt: "Desert Hybrid - Get the M4 to level 8 - Get 50 kills while ADS with the M4",
+            title: "Desert Hybrid",
+            description: "Get the M4 to level 8 - Get 50 kills while ADS with the M4"
+        },
+        {
+            id: 11,
+            src: DarkLeaves,
+            alt: "Dark Leaves - Get the M4 to level 13 - Get 10 double kills with the M4",
+            title: "Dark Leaves",
+            description: "Get the M4 to level 13 - Get 10 double kills with the M4"
+        },
+        {
+            id: 12,
+            src: NewUrban,
+            alt: "New Urban - Get the M4 to level 19 - Get 15 kills from behind with the M4",
+            title: "New Urban",
+            description: "Get the M4 to level 19 - Get 15 kills from behind with the M4"
+        },
+        {
+            id: 13,
+            src: Scales,
+            alt: "Scales - Get the M4 to level 2 - Get 50 kills with the M4",
+            title: "Scales",
+            description: "Get the M4 to level 2 - Get 50 kills with the M4"
+        },
+        {
+            id: 14,
+            src: DesertHybrid,
+            alt: "Desert Hybrid - Get the M4 to level 8 - Get 50 kills while ADS with the M4",
+            title: "Desert Hybrid",
+            description: "Get the M4 to level 8 - Get 50 kills while ADS with the M4"
+        },
+        {
+            id: 15,
+            src: DarkLeaves,
+            alt: "Dark Leaves - Get the M4 to level 13 - Get 10 double kills with the M4",
+            title: "Dark Leaves",
+            description: "Get the M4 to level 13 - Get 10 double kills with the M4"
+        },
+        {
+            id: 16,
+            src: NewUrban,
+            alt: "New Urban - Get the M4 to level 19 - Get 15 kills from behind with the M4",
+            title: "New Urban",
+            description: "Get the M4 to level 19 - Get 15 kills from behind with the M4"
+        },
+        {
+            id: 17,
+            src: Scales,
+            alt: "Scales - Get the M4 to level 2 - Get 50 kills with the M4",
+            title: "Scales",
+            description: "Get the M4 to level 2 - Get 50 kills with the M4"
+        },
+        {
+            id: 18,
+            src: DesertHybrid,
+            alt: "Desert Hybrid - Get the M4 to level 8 - Get 50 kills while ADS with the M4",
+            title: "Desert Hybrid",
+            description: "Get the M4 to level 8 - Get 50 kills while ADS with the M4"
+        },
+        {
+            id: 19,
+            src: DarkLeaves,
+            alt: "Dark Leaves - Get the M4 to level 13 - Get 10 double kills with the M4",
+            title: "Dark Leaves",
+            description: "Get the M4 to level 13 - Get 10 double kills with the M4"
+        },
+        {
+            id: 20,
+            src: NewUrban,
+            alt: "New Urban - Get the M4 to level 19 - Get 15 kills from behind with the M4",
+            title: "New Urban",
+            description: "Get the M4 to level 19 - Get 15 kills from behind with the M4"
+        },
+        {
+            id: 1,
+            src: Scales,
+            alt: "Scales - Get the M4 to level 2 - Get 50 kills with the M4",
+            title: "Scales",
+            description: "Get the M4 to level 2 - Get 50 kills with the M4"
+        },
+        {
+            id: 2,
+            src: DesertHybrid,
+            alt: "Desert Hybrid - Get the M4 to level 8 - Get 50 kills while ADS with the M4",
+            title: "Desert Hybrid",
+            description: "Get the M4 to level 8 - Get 50 kills while ADS with the M4"
+        },
+        {
+            id: 3,
+            src: DarkLeaves,
+            alt: "Dark Leaves - Get the M4 to level 13 - Get 10 double kills with the M4",
+            title: "Dark Leaves",
+            description: "Get the M4 to level 13 - Get 10 double kills with the M4"
+        },
+        {
+            id: 4,
+            src: NewUrban,
+            alt: "New Urban - Get the M4 to level 19 - Get 15 kills from behind with the M4",
+            title: "New Urban",
+            description: "Get the M4 to level 19 - Get 15 kills from behind with the M4"
+        },
+        {
+            id: 1,
+            src: Scales,
+            alt: "Scales - Get the M4 to level 2 - Get 50 kills with the M4",
+            title: "Scales",
+            description: "Get the M4 to level 2 - Get 50 kills with the M4"
+        },
+        {
+            id: 2,
+            src: DesertHybrid,
+            alt: "Desert Hybrid - Get the M4 to level 8 - Get 50 kills while ADS with the M4",
+            title: "Desert Hybrid",
+            description: "Get the M4 to level 8 - Get 50 kills while ADS with the M4"
+        },
+        {
+            id: 3,
+            src: DarkLeaves,
+            alt: "Dark Leaves - Get the M4 to level 13 - Get 10 double kills with the M4",
+            title: "Dark Leaves",
+            description: "Get the M4 to level 13 - Get 10 double kills with the M4"
+        },
+        {
+            id: 4,
+            src: NewUrban,
+            alt: "New Urban - Get the M4 to level 19 - Get 15 kills from behind with the M4",
+            title: "New Urban",
+            description: "Get the M4 to level 19 - Get 15 kills from behind with the M4"
+        },
+        {
+            id: 1,
+            src: Scales,
+            alt: "Scales - Get the M4 to level 2 - Get 50 kills with the M4",
+            title: "Scales",
+            description: "Get the M4 to level 2 - Get 50 kills with the M4"
+        },
+        {
+            id: 2,
+            src: DesertHybrid,
+            alt: "Desert Hybrid - Get the M4 to level 8 - Get 50 kills while ADS with the M4",
+            title: "Desert Hybrid",
+            description: "Get the M4 to level 8 - Get 50 kills while ADS with the M4"
+        },
+        {
+            id: 3,
+            src: DarkLeaves,
+            alt: "Dark Leaves - Get the M4 to level 13 - Get 10 double kills with the M4",
+            title: "Dark Leaves",
+            description: "Get the M4 to level 13 - Get 10 double kills with the M4"
+        },
+        {
+            id: 4,
+            src: NewUrban,
+            alt: "New Urban - Get the M4 to level 19 - Get 15 kills from behind with the M4",
+            title: "New Urban",
+            description: "Get the M4 to level 19 - Get 15 kills from behind with the M4"
+        },
+        {
             id: 37,
             src: Gold,
             alt: "Gold - Complete all base camo challenges - Get 3 kills without dying 10 times",
@@ -69,16 +265,17 @@ export default function Assault() {
     ]
     return(
         <section name="assault">
-            {assault.map(({ id, src, alt, title, description }) => (
-                <div key={id}>
-                    <h3>{title}</h3>
-                    <br></br>
-                    <img src={src} alt={alt} />
-                    <br></br>
-                    <span>{description}</span>
-                    <input type="checkbox"></input>
-                </div>
-            ))}
+            <h2>Assault Rifles</h2>
+            <div className="md:grid-cols-4 items-center">
+                {assault.map(({ id, src, alt, title, description }) => (
+                    <div key={id}>
+                        <h3>{title}</h3>
+                        <img src={src} alt={alt} />
+                        <span>{description}</span>
+                        <input type="checkbox"></input>
+                    </div>
+                ))}
+            </div>
         </section>
     )
 }
