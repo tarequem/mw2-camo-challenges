@@ -11,6 +11,42 @@ import Assault from './components/weapons/Assault';
 //import Handguns from './components/weapons/Handguns';
 import Footer from './components/Footer';
 
+/*const checkBoxes = document.querySelectorAll('.checkbox')
+const checkedBoxes = [];
+
+checkBoxes.forEach(function(checkBox) {
+  if (checkBox.checked) {
+    checkedBoxes.push(checkBox.value);
+  }
+});*/
+
+let checkedBoxes = [];
+
+let checkboxes = document.querySelectorAll('input[type="checkbox"]');
+checkboxes.forEach(function(checkbox) {
+  checkbox.addEventListener('change', function() {
+    if (this.checked) {
+      checkedBoxes.push(this.value);
+    } else {
+      let index = checkedBoxes.indexOf(this.value);
+      checkedBoxes.splice(index, 1);
+    }
+    localStorage.setItem('checkedBoxes', JSON.stringify(checkedBoxes));
+  });
+});
+
+localStorage.setItem('checkedBoxes', JSON.stringify(checkedBoxes));
+
+let storedCheckedBoxes = JSON.parse(localStorage.getItem('checkedBoxes'));
+if (storedCheckedBoxes) {
+  checkedBoxes = storedCheckedBoxes;
+  checkboxes.forEach(function(checkbox) {
+    if (checkedBoxes.includes(checkbox.value)) {
+      checkbox.checked = true;
+    }
+  });
+}
+
 function App() {
   return (
     <main className='bg-lime-900'>
